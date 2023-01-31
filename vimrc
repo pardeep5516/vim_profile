@@ -32,6 +32,9 @@ Plug 'natebosch/vim-lsc-dart'
 "Plug 'akinsho/toggleterm.nvim'
 Plug 'voldikss/vim-floaterm'
 
+"icon
+Plug 'ryanoasis/vim-devicons'
+
 "my flutter setup 
 
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
