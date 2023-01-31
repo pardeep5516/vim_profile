@@ -32,6 +32,9 @@ Plug 'natebosch/vim-lsc-dart'
 "Plug 'akinsho/toggleterm.nvim'
 Plug 'voldikss/vim-floaterm'
 
+"copilot
+Plug 'github/copilot.vim'
+
 "icon
 Plug 'ryanoasis/vim-devicons'
 
